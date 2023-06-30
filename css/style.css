@@ -217,7 +217,7 @@ link {
       .nav_content_m > a,
       .nav_content_m > a:active,
       .nav_content_m > a:focus {
-        color: #f5f5f5;
+        color: #787676;
         letter-spacing: 3px;
         font-size: 4rem;
         font-weight: 800;
@@ -490,7 +490,7 @@ link {
     .footer__con-icon {
       width: 35px;
       height: 35px;
-      fill: #f5f5f5;
+      fill: #787676;
       transition: fill 0.5s ease; }
 
 .content-display {
