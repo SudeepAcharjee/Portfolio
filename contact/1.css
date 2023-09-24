@@ -277,7 +277,7 @@ link {
       opacity: 0;
       animation: loadLeft 1s ease forwards 9.75s; }
     .hero_title > h2 {
-      font-size: 12rem;
+      font-size: 22rem;
       margin-top: -50px;
       opacity: 0;
       animation: loadRight 1s ease forwards 9.75s; }

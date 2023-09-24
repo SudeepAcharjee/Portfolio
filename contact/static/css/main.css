@@ -66,6 +66,7 @@ label
     top: -2em;
 	cursor: auto;
     transition: 0.3s ease all;
+    font-size: large;
 }
 
 input:focus ~ label, input:not(:placeholder-shown) ~ label
