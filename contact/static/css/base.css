@@ -9,7 +9,7 @@ body
 {
     background-color: black;
     font-family: 'Overpass Mono', monospace;
-    color: #f5f5f5;
+    color: #8836ff;
 }
 
 a
@@ -20,7 +20,7 @@ a
 
 a:hover
 {
-    color: #69f0ae;
+    color: #8836ff;
 }
 
 .hide

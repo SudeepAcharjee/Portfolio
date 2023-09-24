@@ -19,7 +19,7 @@ main
 .title-info
 {
 	padding-bottom: 2%;
-    font-size: 25 !important;
+    font-size: 25px !important;
 }
 
 .form
@@ -44,6 +44,7 @@ input, textarea
     border-bottom: 1px solid #757575;
     padding: 1.5%;
     font-size: 1000px;
+    font-size: 25px;
 }
 
 input:focus, textarea:focus
