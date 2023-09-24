@@ -46,14 +46,7 @@ textarea,
 select {
   font: inherit; }
 
-p,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  overflow-wrap: break-word; }
+
 
 #root,
 #__next {
@@ -61,7 +54,7 @@ h6 {
 
 link {
   display: inline-block; }
-
+/* 
 .load {
   width: 100vw;
   height: 100vh;
@@ -131,13 +124,13 @@ link {
         animation: lineShow 1.5s ease-out forwards 6.5s, opacityLow 1s ease forwards 8s; }
       .conb_bg--line:nth-child(10) {
         animation: lineShow 1.5s ease-out forwards 6.75s, opacityLow 1s ease forwards 8s; }
-
+*/
 .landing-page {
   width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center; }
+  justify-content: center; } 
 
 .nav {
   position: relative;
@@ -154,7 +147,7 @@ link {
   top: 25px;
   opacity: 0;
   transition: all 1s ease !important;
-  animation: loadDown 1s ease forwards 8.5s;
+  animation: loadDown 1s ease forwards 0.5s;
   background: rgba(113, 112, 112, 0.13);
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(2px);
