@@ -920,9 +920,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 /* ----------------- Portfolio Style --------------- */
 .portfolio {
-    position: relative;
-    padding: 60px 0 45px 0;
-    background: #f2f2f2;
+    
+    padding: 130px 0 45px 0;
+   
 }
 
 .portfolio #portfolio-flters {
