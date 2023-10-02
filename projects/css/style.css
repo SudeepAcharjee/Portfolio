@@ -1102,7 +1102,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .team .card:hover .card-title-wrap {
-    background: #1dbf73;
+    background: #1d4ff3;
 }
 
 .team .card-title-wrap .card-title,
@@ -1206,7 +1206,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .testimonials .owl-dot.active {
-    background-color: #1dbf73;
+    background-color: #474c94;
 }
 
 @media (max-width: 575px) {
