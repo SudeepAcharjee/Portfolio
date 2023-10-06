@@ -1260,7 +1260,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .contact {
     position: relative;
     padding: 60px 0;
-    background: #f2f2f2;
+    background: white;
 }
 
 .contact .container {
