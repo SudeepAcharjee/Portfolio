@@ -1560,3 +1560,10 @@ body.mobile-nav-active #mobile-nav-toggle {
         padding: 0;
     }
 }
+:-moz-user-disabled
+{
+    margin: 70px;
+    border-top: #000;
+    nav-left: calc(78);
+    
+}
