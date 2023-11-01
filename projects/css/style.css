@@ -1431,15 +1431,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 .footer .footer-top h4::before {
     content: '';
     position: absolute;
-    left: 0;
-    bottom: 0;
-    height: 0;
-    width: 100px;
-    border-bottom: 3px dashed #ffffff;
+    left: 0;        padding: 0;
+}
 }
 
-.footer .footer-top .footer-links ul {
-    list-style: none;
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
     padding: 0;
     margin: 0;
 }
@@ -1561,3 +1557,12 @@ body.mobile-nav-active #mobile-nav-toggle {
     }
 }
 
+@media (max-width: 61.9em) {
+    .team .team-over {
+        padding-top: 20px;
+    }
+    .team .card .social-nav {
+        margin-bottom: 15px;
+        padding: 0;
+    }
+}
